@@ -4,6 +4,12 @@ An interactive Excel dashboard that turns a **32,000+ row global job-postings da
 
 No Power Query, no Power Pivot, no VBA — just Excel Tables, dynamic arrays, and named ranges doing the work.
 
+## File
+
+- [`Data_Science_Calculator_Dashboard.xlsx`](./Data_Science_Calculator_Dashboard.xlsx)
+
+<img width="960" height="540" alt="dashboard" src="https://github.com/user-attachments/assets/215b413f-17bc-4e53-be65-7af94967a575" />
+
 ---
 
 ## What it does
@@ -50,9 +56,3 @@ Type in (or pick from a dropdown-style list) three inputs on the `Salary_Calcula
 ## Tech
 
 Microsoft Excel — Tables, Dynamic Arrays (`UNIQUE`, `SORT`, `FILTER`, `XLOOKUP`), array formulas, named ranges, PivotChart-free live charting (Bar + Filled Map).
-
-## File
-
-- [`Data_Science_Calculator_Dashboard.xlsx`](./Data_Science_Calculator_Dashboard.xlsx)
-
-<img width="960" height="540" alt="dashboard" src="https://github.com/user-attachments/assets/215b413f-17bc-4e53-be65-7af94967a575" />
